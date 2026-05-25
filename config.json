@@ -1,0 +1,8 @@
+{
+    "name": "appcontroller-service",
+    "version": "1.0.478",
+    "private": false,
+    "environment": "production",
+    "build_id": 707,
+    "allow_public_access": true
+}
